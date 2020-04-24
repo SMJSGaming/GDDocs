@@ -14,8 +14,8 @@ For update the level user highscore: 39673
 #### Salt Keys
 For level downloading and uploading: xI25fpAapCQg  
 For level comments: xPT6iUrtws0J  
-For quests: none  
-For chest rewards: none  
+For quests: oC36fpYaPtdg  
+For chest rewards: npC26fpYaQCtg  
 For liking and rating: ysg6pUrtjn0J  
 For updating user scores: xI35fsAapCRg  
 For update the level user highscore: yPg6pUrtWn0J
